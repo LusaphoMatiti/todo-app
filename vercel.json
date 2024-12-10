@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "http://my-todo-app-frontend.s3-website.eu-north-1.amazonaws.com/"
+    }
+  ]
+}
